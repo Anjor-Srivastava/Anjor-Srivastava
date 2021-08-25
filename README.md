@@ -4,9 +4,9 @@ Hello, I am Anjor Srivastava. I use github for publishing my web sites. I have c
 
 ### Here are a few links to my repositories
 <ul>
-  <li><a href="https://anjor-srivastava.github.io/Minecraft" target="_blank">Minecraft</a></li>
-  <li><a href="https://anjor-srivastava.github.io/Tic-Tac-Toe.com" target="_blank">Tic Tac Toe</a></li>
-  <li><a href="https://anjor-srivastava.github.io/Simple-Calculator" target="_blank">Simple Calculator</a></li>
-  <li><a href="https://anjor-srivastava.github.io/Canvas_WITH_TOUCH_DRAWING_RESPONSIVE" target="_blank">Canvas with touchdrawing</a></li>
-  <li><a href="https://anjor-srivastava.github.io/Moving_Rover_On_Mars.com" target="_blank">Moving On Mars</a></li>
+  <li><a href="https://anjor-srivastava.github.io/Minecraft">Minecraft</a></li>
+  <li><a href="https://anjor-srivastava.github.io/Tic-Tac-Toe.com">Tic Tac Toe</a></li>
+  <li><a href="https://anjor-srivastava.github.io/Simple-Calculator">Simple Calculator</a></li>
+  <li><a href="https://anjor-srivastava.github.io/Canvas_WITH_TOUCH_DRAWING_RESPONSIVE">Canvas with touchdrawing</a></li>
+  <li><a href="https://anjor-srivastava.github.io/Moving_Rover_On_Mars.com">Moving On Mars</a></li>
 </ul>
